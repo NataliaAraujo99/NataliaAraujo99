@@ -7,6 +7,8 @@
 
 - 📫 Você me acha através do e-mail **natalia.araujo9918@gmail.com**
 
+- 🔗 Confira o meu Portfólio de Power BI: **https://sites.google.com/view/portflionataliaarajo/in%C3%ADcio**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/natalia-goncalves-araujo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/natalia-goncalves-araujo" height="30" width="40" /></a>
