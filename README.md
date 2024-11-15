@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Natalia Araújo</h1>
 <h3 align="center">Analista de Business Intelligence</h3>
 
-- 🌱 Atualmente estou estudando **Formação em Ciências de dados**
+- 🌱 Atualmente estou estudando **Ciências de dados**
 
 - 💬 Me pergunte sobre **Excel, Power BI, Qlik sense, SQL, Python e Machine learning**
 
