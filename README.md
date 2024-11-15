@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, Eu sou Natalia Araújo</h1>
-<h3 align="center">Migrando para o mundo de dados</h3>
+<h3 align="center">Analista de Business Intelligence</h3>
 
 - 🌱 Atualmente estou estudando **Formação em Ciências de dados**
 
-- 💬 Me pergunte sobre **Excel, Power BI, SQL, Python e Machine learning**
+- 💬 Me pergunte sobre **Excel, Power BI, Qlik sense, SQL, Python e Machine learning**
 
 - 📫 Você me acha através do e-mail **natalia.araujo9918@gmail.com**
 
