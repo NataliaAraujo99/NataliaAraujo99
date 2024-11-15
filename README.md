@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou Natalia Araújo</h1>
+<h1 align="center">Oi 👋, Eu sou Natalia Gonçalves Araújo</h1>
 <h3 align="center">Analista de Business Intelligence</h3>
 
 - 🌱 Atualmente estou estudando **Ciências de dados**
